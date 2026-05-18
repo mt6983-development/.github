@@ -18,3 +18,6 @@ This organization contains all the important repositories required to build AOSP
 
 ### Required patches
 * [**Aperture**](https://github.com/Adarsh0127-Elite/android_packages_apps_Aperture/commit/9509277efc852ad8bdcce204e0d9cfe104b6d190) (`android_packages_apps_Aperture`)
+
+### Device kernel manifest
+* [**Kernel sources**](https://github.com/mt6983-development/kernel_manifest) (`kernel_manifest`)
